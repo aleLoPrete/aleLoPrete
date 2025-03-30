@@ -6,6 +6,4 @@ I am currently looking for either fully remote roles in Europe or on-site opport
 
 🎓 MSc Computer Engineering @[PoliMi](https://www.polimi.it/en)
 
-🔎 Interested in: Malware Analysis, Threat Intelligence, and Compilers.
-
 More [here](https://aleloprete.it/).
