@@ -6,8 +6,8 @@ I’m a Computer Engineer with a strong interest in **cybersecurity** and **soft
 
 🚀 [European Space Agency](https://www.esa.int/) - Intern + Master’s Thesis (Time Series Anomaly Detection in Delay-Tolerant Networks)
 
-🎓 MSc Computer Engineering @[PoliMi](https://www.polimi.it/en)
+🎓 [PoliMi](https://www.polimi.it/en) - MSc Computer Engineering 
 
-🎓 BSc Computer Engineering @[PoliTo](https://www.polito.it/en)
+🎓 [PoliTo](https://www.polito.it/en) - BSc Computer Engineering
 
 More [here](https://aleloprete.it/).
