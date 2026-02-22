@@ -1,9 +1,12 @@
-### Hi, I am Alessandro
+### Hello Hello
 
-I am a **Threat Detection Engineer** at [Sysdig](https://www.sysdig.com/).
+I am a **Threat Detection Engineer** [Sysdig's Threat Research Team](https://www.sysdig.com/threat-research).
 
-[European Space Agency](https://www.esa.int/) > Intern + Master’s Thesis (Time Series Anomaly Detection in Delay-Tolerant Networks)
+I work at the intersection of cloud, system security (Linux) and AI.
 
-[PoliMi](https://www.polimi.it/en) > MSc Computer Engineering
+Previously at:
 
-More [here](https://aleloprete.it/).
+* [European Space Agency](https://www.esa.int/) > Intern + Master’s Thesis (Time Series Anomaly Detection in Delay-Tolerant Networks)
+* [PoliMi](https://www.polimi.it/en) > MSc Computer Engineering
+
+> More [here](https://aleloprete.it/).
