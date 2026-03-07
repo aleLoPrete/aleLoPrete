@@ -1,8 +1,8 @@
 ### Hello Hello
 
-I am a **Threat Detection Engineer** [Sysdig's Threat Research Team](https://www.sysdig.com/threat-research).
+I am a **Threat Detection Engineer** in [Sysdig's Threat Research Team](https://www.sysdig.com/threat-research).
 
-I work at the intersection of cloud, system security (Linux) and AI.
+Working on Linux runtime security and cloud threat detection.
 
 Previously at:
 
